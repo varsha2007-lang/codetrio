@@ -1,0 +1,10 @@
+node_modules/
+frontend/dist/
+frontend/.vite/
+.vite/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+*.py[cod]
